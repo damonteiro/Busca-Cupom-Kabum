@@ -1,3 +1,3 @@
-Buscador de CUMPONS da Kabum
+Buscador de CUPONS da Kabum
 ======================== 
 
